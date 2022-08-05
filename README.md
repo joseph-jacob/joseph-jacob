@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm JOSEPH JACOB</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&color=63F749&center=true&size=24&width=1200&lines=Studying+at+Sjcet+Palai...;&duration=3000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&color=63F749&center=true&size=24&width=1200&lines=Studying+at+Sjcet+Palai...⚡⚡⚡;&duration=3000)](https://git.io/typing-svg)
 
 
 
