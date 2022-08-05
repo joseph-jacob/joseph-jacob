@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JOSEPH JACOB</h1>
-<h3 align="center">Student at SJCET Palai⚡</h3>
+
 
 
 
