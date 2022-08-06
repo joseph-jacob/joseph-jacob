@@ -7,12 +7,6 @@
 
 - 📫 How to reach me **josephjacobanchanickal2002@gmail.com**
 
-
-
-
-
-
-
 <p align="left">
 <a href="https://linkedin.com/in/joseph-jacob-184288243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph-jacob-184288243/" height="30" width="40" /></a>
 <a href="https://fb.com/joseph-jacob-anchanickal-100025098173251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joseph-jacob-anchanickal-100025098173251/" height="30" width="40" /></a>
