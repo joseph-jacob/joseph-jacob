@@ -12,7 +12,7 @@
 <a href="https://fb.com/joseph-jacob-anchanickal-100025098173251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joseph-jacob-anchanickal-100025098173251/" height="30" width="40" /></a>
 <a href="https://instagram.com/joseph__jacob__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joseph__jacob__" height="30" width="40" /></a>
 
- <a href="http://wa.me/+917012673537"><img class="acclogo" src="https://pbs.twimg.com/profile_images/1318652224638124032/wrpp2Nl4_400x400.png" alt="" width="40px" height="40px"align="right"  style="padding:7px;"></a>
+ <a href="http://wa.me/+917012673537"><img class="acclogo" src="https://pbs.twimg.com/profile_images/1318652224638124032/wrpp2Nl4_400x400.png" alt="" width="40px" height="40px"></a>
 </p>
 
 ![gif](https://c.tenor.com/44EF30XLRjUAAAAC/cool-colors.gif)   [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F3F742&lines=__----___----___----___-----___----___----___-----___-----____-----___-----___-----___----___-----___-----___-----____-----____------____------____-----____------____----____----____----____----___----____----____-----____-----_____-----____-----_____-----_____+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++)](https://git.io/typing-svg)
