@@ -13,5 +13,4 @@
 <a href="https://instagram.com/joseph__jacob__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joseph__jacob__" height="30" width="40" /></a>
 </p>
 
-![gif](https://c.tenor.com/44EF30XLRjUAAAAC/cool-colors.gif)   [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F3F742&lines=__----___----___----___-----___----___----___-----___-----____-----___-----___-----___----___-----___-----___-----____-----____------____------____-----____------____----____----____----____----___----____----____-----____-----_____-----____-----_____-----_____
-                                                          _____-----____+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++)](https://git.io/typing-svg)
+![gif](https://c.tenor.com/44EF30XLRjUAAAAC/cool-colors.gif)   [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F3F742&lines=__----___----___----___-----___----___----___-----___-----____-----___-----___-----___----___-----___-----___-----____-----____------____------____-----____------____----____----____----____----___----____----____-----____-----_____-----____-----_____-----_____+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++)](https://git.io/typing-svg)
