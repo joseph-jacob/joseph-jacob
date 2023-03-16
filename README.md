@@ -2,9 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&color=63F749&center=true&size=24&width=1200&lines=Studying+at+Sjcet+Palai...⚡⚡⚡;&duration=3000)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
 
 
 
