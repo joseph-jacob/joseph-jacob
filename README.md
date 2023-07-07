@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&color=63F749&center=true&size=24&width=1200&lines=Studying+at+Sjcet+Palai...⚡⚡⚡;&duration=3000)](https://git.io/typing-svg)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=joseph-jacob&label=Profile%20views&color=0e75b6&style=flat" alt="joseph-jacob" /> </p>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/joseph-jacob](https://github.com/joseph-jacob)
